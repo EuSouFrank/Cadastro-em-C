@@ -3,4 +3,5 @@
 professora: Renata 
 Matéria: Análise e desenvolvimento de algorítmos
 
-pequeno sistem de 
+pequeno sistema em linguagem C com um CRUD basico para cadastros de email , onde os dados sao salvos em um arquivo .txt
+
